@@ -31,3 +31,4 @@ while game_is_on:
         car_manager.increase_speed()
 
         #inrease Score
+        #HAHAHAHAHAAH
